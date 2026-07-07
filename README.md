@@ -1,17 +1,35 @@
-# dompet_umkm
+# Dompet UMKM 💰
 
-A new Flutter project.
+Aplikasi Android "Dompet UMKM" adalah solusi pencatatan keuangan digital yang dirancang untuk membantu pelaku usaha mikro, kecil, dan menengah dalam mencatat pemasukan dan pengeluaran harian secara efisien dan terorganisir.
 
-## Getting Started
+## 🌟 Latar Belakang
+Proyek ini dikembangkan untuk memenuhi kebutuhan pengelolaan keuangan bagi UMKM agar lebih transparan, akurat, dan mudah diakses langsung melalui perangkat mobile.
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
+* **Manajemen Transaksi**: Mencatat pemasukan dan pengeluaran dengan kategori yang jelas.
+* **Riwayat Keuangan**: Menampilkan ringkasan transaksi berdasarkan tanggal.
+* **Antarmuka Intuitif**: Didesain agar mudah digunakan oleh pengguna awam sekalipun.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Teknologi & Tools
+* **Bahasa Pemrograman**: Kotlin/Java.
+* **Database**: Supabase.
+* **Tools**: Android Studio, Git, GitHub, Google Play Console.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 👥 Tim Pengembang (Collaborators)
+Aplikasi ini merupakan hasil kolaborasi tim:
+* **[Muhammad Irsyad]** - Developer / Project Lead
+* **[Muhammad Rijal Febriyantono]** - UI/UX & Backend Support
+* **[Billy Rafaelandri]** - Testing & Documentation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔒 Kebijakan Privasi
+Kami sangat menghargai privasi pengguna. Anda dapat membaca detail kebijakan privasi kami pada file [PRIVACY.md](./PRIVACY.md).
+
+## 📈 Status Proyek
+- [x] Pengembangan Aplikasi
+- [x] Dokumentasi Proyek
+- [x] Rilis Pengujian Internal (Google Play Console)
+- [ ] Pengujian Terbuka (Open Testing)
+- [ ] Rilis Produksi
+
+---
+*Proyek ini merupakan bagian dari tugas pengembangan aplikasi mobile.*
